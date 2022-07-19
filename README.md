@@ -1,4 +1,4 @@
-#Selenium – Final Homework
+Selenium – Final Homework
 
 1.Login as user (person who is looking for transport);
 2.Click on “Create request” and open the “New request” form;
